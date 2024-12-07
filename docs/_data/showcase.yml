@@ -300,9 +300,15 @@
     - software
     - marketing-site
 
+- name: Legal Wiki
+  url: https://www.wiki.xin/
+  image: ruby-on-rails.png
+  categories:
+    - marketing-site
+    - documentation
 - name: Ruby on Rails
   url: https://rubyonrails.org/
   image: ruby-on-rails.png
   categories:
-    - marketing-site
+    - law-site
     - documentation
